@@ -1,0 +1,36 @@
+header{
+background-color: #563aff;
+width: 591px;
+height: 100px;
+}
+
+main{
+background-color: #22F9EC;
+width: 591px;
+height: 591px;
+}
+
+h1{
+    text-align: center;
+    color: #EB00FF;
+}
+
+h2{
+    text-align: center;
+    color: #EB00FF;
+}
+
+h3{
+    text-align: center;
+    color: #EB00FF;
+}
+
+footer{
+    background-color: #45E12C;
+    width: 591px;
+    height: 97px;
+}
+
+a{
+   padding: 100px,55px,10px,56px;
+}
